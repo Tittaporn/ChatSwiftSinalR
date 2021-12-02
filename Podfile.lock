@@ -1,0 +1,21 @@
+PODS:
+  - SwiftSignalRClient (0.9.0)
+
+DEPENDENCIES:
+  - SwiftSignalRClient (from `https://github.com/Tittaporn/SignalR-Client-Swift`)
+
+EXTERNAL SOURCES:
+  SwiftSignalRClient:
+    :git: https://github.com/Tittaporn/SignalR-Client-Swift
+
+CHECKOUT OPTIONS:
+  SwiftSignalRClient:
+    :commit: f5dead75ef39654b273008ead400a54383411452
+    :git: https://github.com/Tittaporn/SignalR-Client-Swift
+
+SPEC CHECKSUMS:
+  SwiftSignalRClient: aba134f3d30f7eeb01008929e387b6e66546c7d5
+
+PODFILE CHECKSUM: 9cee93f74f45203c4f452264a9187b872354cab6
+
+COCOAPODS: 1.10.1
